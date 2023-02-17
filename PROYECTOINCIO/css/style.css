@@ -1,0 +1,53 @@
+:root {
+    --rosatcd:blue;
+    --blancotcd: #fff;
+    --negrotcd: #000
+    --fuentep:'Babylonica', cursive;
+}
+
+
+
+
+
+html {
+    font-size 62.5%;
+}
+
+body {font-family: var(fuentep)};{
+    font-size: 16px;
+}
+
+
+.zonacentro>h1 {
+    background-color: var(--rosatcd);
+    margin-bottom: 10px;
+    display: block;
+    font-weight: 800;
+    padding: 35px;
+    color: #fff;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.zonacentro {
+    background-image: url(../IMG/BANNER.png);
+}
+
+.zonacursos {
+    color: white;
+
+    border: 0px solid #000;
+
+    background: #000;
+    background-image: url(../IMG/ico\ tras.png);
+    font-family: "DinBold", sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    float: right;
+}
